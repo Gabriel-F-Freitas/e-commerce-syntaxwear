@@ -2,6 +2,7 @@
     grid-area: highlight;
     background-image: url(../../images/products/card-imagem.jpg);
     background-size: cover;
+    position: relative;
 }
 
 .sneaker-purple {
@@ -51,4 +52,32 @@
     "highlight highlight model sneaker-color"
     "sneaker-white sneaker-white model sneaker-silver";
     gap: 30px;
+}
+
+.highlight-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.card-title {
+    color: #ededed;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.card-subtitle {
+    color: #ededed;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 20px
+}
+
+.cta-group {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
 }
