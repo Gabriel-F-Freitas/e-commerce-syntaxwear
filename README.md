@@ -1,6 +1,8 @@
 # SyntaxWear - E-commerce de Tênis e Sneakers
 
 Este projeto é um e-commerce fictício chamado **SyntaxWear**, especializado na venda de tênis e sneakers. O objetivo é apresentar um layout moderno, responsivo e organizado, focado em experiência do usuário e boas práticas de desenvolvimento front-end.
+
+
 ![gif-desktop-syntaxwear](https://github.com/user-attachments/assets/939008a8-f4f1-496a-b458-428654b3fe98)
 
 ## Estrutura de Pastas
